@@ -1,0 +1,8 @@
+# Ignorar pasta .idea (configurações do IntelliJ IDEA)
+.idea/
+
+# Ignorar arquivos de configuração específicos do IntelliJ IDEA
+*.iml
+
+# Ignorar arquivos temporários do IntelliJ IDEA
+*.iws
